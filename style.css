@@ -1,0 +1,8 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background: #000 url("ND_Background_2.svg") center/cover no-repeat fixed;
+}
