@@ -7,9 +7,5 @@ body {
   background: #000 url("ND_Background_3.svg") center/cover no-repeat fixed;
 }
 h1, p {
-  text-shadow: 2px 2px 6px #000;
-  -webkit-text-stroke: 1px black;
-}
-h1, p {
   -webkit-text-stroke: 1px black;
 }
